@@ -1,0 +1,4 @@
+Enter the news article: A shocking miracle cure has been discovered and is 100% true!
+
+AI Analysis Result: FAKE / SUSPICIOUS
+Note: AI prediction should be verified using reliable sources.
